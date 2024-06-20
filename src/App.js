@@ -1,7 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
+  console.log("TelegramGameProxy", window.TelegramGameProxy.initParams);
   return (
     <div className="App">
       <header className="App-header">
