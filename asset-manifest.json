@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test-app/static/css/main.9250cee7.css",
-    "main.js": "/test-app/static/js/main.0baad2a8.js",
+    "main.css": "/test-app/static/css/main.98f105bb.css",
+    "main.js": "/test-app/static/js/main.a53ac4b2.js",
     "static/js/453.b9b4a01c.chunk.js": "/test-app/static/js/453.b9b4a01c.chunk.js",
     "static/media/ring-with-logo.png": "/test-app/static/media/ring-with-logo.9622aa8c53f250dbc34f.png",
     "static/media/ProximaNova-Light.ttf": "/test-app/static/media/ProximaNova-Light.4e6430d1b1cdd53aab1d.ttf",
@@ -20,12 +20,12 @@
     "static/media/glove_left.png": "/test-app/static/media/glove_left.14aab51fe2d0571d9656.png",
     "static/media/glove_right.png": "/test-app/static/media/glove_right.a410d8f1459cc6f367c6.png",
     "index.html": "/test-app/index.html",
-    "main.9250cee7.css.map": "/test-app/static/css/main.9250cee7.css.map",
-    "main.0baad2a8.js.map": "/test-app/static/js/main.0baad2a8.js.map",
+    "main.98f105bb.css.map": "/test-app/static/css/main.98f105bb.css.map",
+    "main.a53ac4b2.js.map": "/test-app/static/js/main.a53ac4b2.js.map",
     "453.b9b4a01c.chunk.js.map": "/test-app/static/js/453.b9b4a01c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9250cee7.css",
-    "static/js/main.0baad2a8.js"
+    "static/css/main.98f105bb.css",
+    "static/js/main.a53ac4b2.js"
   ]
 }
