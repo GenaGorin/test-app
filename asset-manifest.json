@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/test-app/static/css/main.c573692c.css",
-    "main.js": "/test-app/static/js/main.81f6afda.js",
+    "main.css": "/test-app/static/css/main.2aa052b2.css",
+    "main.js": "/test-app/static/js/main.971c48c9.js",
     "static/js/453.b9b4a01c.chunk.js": "/test-app/static/js/453.b9b4a01c.chunk.js",
-    "static/media/ring-with-logo.png": "/test-app/static/media/ring-with-logo.9622aa8c53f250dbc34f.png",
+    "static/media/ring-with-logo.png": "/test-app/static/media/ring-with-logo.bee26d9048f857be54a3.png",
     "static/media/ProximaNova-Light.ttf": "/test-app/static/media/ProximaNova-Light.4e6430d1b1cdd53aab1d.ttf",
     "static/media/founded.mp3": "/test-app/static/media/founded.43638a99cf0aafe2b054.mp3",
     "static/media/card.png": "/test-app/static/media/card.7a8634826a18c81eaff0.png",
@@ -22,12 +22,12 @@
     "static/media/glove_left.png": "/test-app/static/media/glove_left.14aab51fe2d0571d9656.png",
     "static/media/glove_right.png": "/test-app/static/media/glove_right.a410d8f1459cc6f367c6.png",
     "index.html": "/test-app/index.html",
-    "main.c573692c.css.map": "/test-app/static/css/main.c573692c.css.map",
-    "main.81f6afda.js.map": "/test-app/static/js/main.81f6afda.js.map",
+    "main.2aa052b2.css.map": "/test-app/static/css/main.2aa052b2.css.map",
+    "main.971c48c9.js.map": "/test-app/static/js/main.971c48c9.js.map",
     "453.b9b4a01c.chunk.js.map": "/test-app/static/js/453.b9b4a01c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c573692c.css",
-    "static/js/main.81f6afda.js"
+    "static/css/main.2aa052b2.css",
+    "static/js/main.971c48c9.js"
   ]
 }
