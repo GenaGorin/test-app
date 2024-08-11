@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test-app/static/css/main.b8ac44d2.css",
-    "main.js": "/test-app/static/js/main.fa28e9d3.js",
-    "static/js/206.efc66f9b.chunk.js": "/test-app/static/js/206.efc66f9b.chunk.js",
+    "main.js": "/test-app/static/js/main.e3ed52f5.js",
+    "static/js/206.5b079e3d.chunk.js": "/test-app/static/js/206.5b079e3d.chunk.js",
     "static/media/ring-with-logo.png": "/test-app/static/media/ring-with-logo.3a289b1050d35446887f.png",
     "static/media/ProximaNova-Light.ttf": "/test-app/static/media/ProximaNova-Light.4e6430d1b1cdd53aab1d.ttf",
     "static/media/founded.mp3": "/test-app/static/media/founded.43638a99cf0aafe2b054.mp3",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.b8ac44d2.css",
-    "static/js/main.fa28e9d3.js"
+    "static/js/main.e3ed52f5.js"
   ]
 }
