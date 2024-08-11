@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-app/static/css/main.b8ac44d2.css",
-    "main.js": "/test-app/static/js/main.0de0d93a.js",
+    "main.js": "/test-app/static/js/main.f3d3f9c3.js",
     "static/js/206.5b079e3d.chunk.js": "/test-app/static/js/206.5b079e3d.chunk.js",
     "static/media/ring-with-logo.png": "/test-app/static/media/ring-with-logo.3a289b1050d35446887f.png",
     "static/media/ProximaNova-Light.ttf": "/test-app/static/media/ProximaNova-Light.4e6430d1b1cdd53aab1d.ttf",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.b8ac44d2.css",
-    "static/js/main.0de0d93a.js"
+    "static/js/main.f3d3f9c3.js"
   ]
 }
