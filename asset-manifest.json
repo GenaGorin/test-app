@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/test-app/static/css/main.3a0aa83a.css",
-    "main.js": "/test-app/static/js/main.f04d281d.js",
+    "main.css": "/test-app/static/css/main.e8b278a9.css",
+    "main.js": "/test-app/static/js/main.a8a5d07b.js",
     "static/js/206.5b079e3d.chunk.js": "/test-app/static/js/206.5b079e3d.chunk.js",
     "static/media/ProximaNova-Light.ttf": "/test-app/static/media/ProximaNova-Light.4e6430d1b1cdd53aab1d.ttf",
     "index.html": "/test-app/index.html"
   },
   "entrypoints": [
-    "static/css/main.3a0aa83a.css",
-    "static/js/main.f04d281d.js"
+    "static/css/main.e8b278a9.css",
+    "static/js/main.a8a5d07b.js"
   ]
 }
